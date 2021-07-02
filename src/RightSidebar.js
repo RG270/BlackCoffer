@@ -1,5 +1,5 @@
 import React from 'react'
-import { Grid, Menu, Segment, Sidebar, Button, Checkbox, Dropdown } from 'semantic-ui-react'
+import { Grid, Menu, Sidebar, Button, Checkbox, Dropdown } from 'semantic-ui-react'
 import App from './App'
 
 const RightSidebar = () => {
